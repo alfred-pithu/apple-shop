@@ -1,0 +1,3 @@
+- Live Site https://alfred-pithu.github.io/apple-shop/index.html
+- Made with HTML, CSS and Javascript
+- Made by DOM Manupulation
