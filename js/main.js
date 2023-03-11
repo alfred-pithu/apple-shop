@@ -21,7 +21,7 @@ function costUpdate(updateId, cost) {
 
 document.getElementById("apply-coupon").addEventListener("click", function () {
   const couponCode = document.getElementById("input-promo").value;
-  const validateCoupon = "stevekaku";
+  const validateCoupon = "stevejobs";
   const totalCost = document.getElementById("total-cost");
   const overallTotalAmountText = totalCost.innerText;
   let overallTotalAmount = parseFloat(overallTotalAmountText);
