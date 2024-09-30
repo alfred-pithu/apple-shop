@@ -8,6 +8,7 @@ function totalUpdate() {
   const totalCostValue =
     parseFloat(initialPrice) +
     parseFloat(costOfMemory) +
+
     parseFloat(costOfStorage) +
     parseFloat(deliveryCharge);
   totalCostText.innerText = totalCostValue;
